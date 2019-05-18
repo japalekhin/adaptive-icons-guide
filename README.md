@@ -58,3 +58,11 @@ Also, check out [the articles on my blog](https://jap.alekhin.io).
 0. Work on your awesome adaptive icon (don't forget about the background).
 0. Apply it to the app you're working on.
 0. Profit!
+
+## Contributing
+
+If you want, you can contribute sample icons, optimized measurements, keylines, and guides. If you have any issues, comments or suggestion, please file an issue.
+
+1. Clone this repository
+0. Make your changes
+0. Submit a pull request
