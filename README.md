@@ -55,6 +55,6 @@ Also, check out [the articles on my blog](https://jap.alekhin.io).
 0. Open the `guide.psd` in Photoshop.
 0. Hide or delete the layers inside the `foregrounds` folder.
 0. Add a layer either inside or above the `foregrounds` folder.
-0. Work on your awesome adaptive icon.
+0. Work on your awesome adaptive icon (don't forget about the background).
 0. Apply it to the app you're working on.
 0. Profit!
