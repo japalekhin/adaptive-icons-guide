@@ -14,7 +14,6 @@ A guide on creating adaptive icons for Android.
   * square mask
   * rounded square mask
   * circle mask
-* Google Play Store icon mask
 * iOS icon mask
 
 ## License
@@ -52,12 +51,15 @@ Also, check out [the articles on my blog](https://jap.alekhin.io).
 ## Getting Started
 
 1. Clone or download this repository.
-0. Open the `guide.psd` in Photoshop.
+0. Open the `launcher-icon.psd` in Photoshop.
 0. Hide or delete the layers inside the `foregrounds` folder.
 0. Add a layer either inside or above the `foregrounds` folder.
 0. Work on your awesome adaptive icon (don't forget about the background).
+0. Hide or show masks to preview how your adaptive icon might look like.
 0. Apply it to the app you're working on.
 0. Profit!
+
+You can follow the same steps for making a Google Play Store icon.
 
 ## Contributing
 
